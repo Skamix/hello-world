@@ -5,6 +5,6 @@ My first repository on GitHub.
 
 *I hope it will be a good experience for me*
 
-Right now I'm in Ukraine and I'm learning to code just to kill some time waiting for war to end... :dizzy_face:
+Right now I'm in Ukraine and I'm learning to code to kill some time waiting for war to end... :dizzy_face:
 
 But it's not the only reason.
